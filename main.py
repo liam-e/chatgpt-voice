@@ -54,5 +54,5 @@ gr.Interface(
     outputs=[
         output_1,  output_2
     ],
-    live=True).launch(share=True)
+    live=True).launch(share=False)
 
